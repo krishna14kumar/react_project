@@ -1,0 +1,21 @@
+form.formData {
+   text-align: center;
+   padding-top: 10%;
+   border-radius: 4px;
+   font-size: 18px;
+}
+form.formData input[type=text] {
+    border-radius: 4px;
+    font-size: 18px;
+}
+form.formData input[type=password] {
+    border-radius: 4px;
+    font-size: 18px;
+}
+
+form.formData input[type=submit] {
+    background-color: aquamarine;
+    height: 30px;
+    width: 100px;
+    border-radius: 6px;
+}

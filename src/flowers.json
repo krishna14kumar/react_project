@@ -1,0 +1,12 @@
+{
+    "flowers": [
+        {
+            "imageName": "Rose",
+            "imageSource": "./rose-blossom-bloom-red-rose-87469.jpeg"
+        },
+        {
+            "imageName": "Rose",
+            "imageSource": "./rose-blossom-bloom-red-rose-87469.jpeg"
+        }
+    ]
+}

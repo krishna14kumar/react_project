@@ -1,0 +1,27 @@
+.Nav-link {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .Nav-link a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .Nav-link a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .Nav-link a.active {
+    /* background-color: #4CAF50; */
+    color: white;
+  }
+
+  .Logout {
+      float: right;
+  }

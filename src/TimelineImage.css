@@ -1,0 +1,19 @@
+img{
+    height: 300px;
+    width: 300px;
+    padding: 30px 20px;
+}
+.image{
+    list-style-type: none;
+    padding: 10px;
+}
+.flowerName {
+    font-weight: bold;
+    font-size: 20px;
+    color: dodgerblue;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.burstMode{
+    background-color: aquamarine;
+}
